@@ -34,12 +34,12 @@ p {
 
 .firstSection {
     border: .5em solid darkblue;
-    color: darkblue;
     background-color: white;
+    border-radius: .25em;
 }
 
 .purpose {
-
+    color: darkblue;
 }
 
 .image {
@@ -53,12 +53,11 @@ p {
 
 .secondSection {
     border: .5em solid darkblue;
-    color: midnightblue;
     background-color: rgb(176, 204, 225);
+    border-radius: .25em;
 
 }
 
 .persona {
-
-
+    color: midnightblue;
 }
