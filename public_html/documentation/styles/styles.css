@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.header {
+    text-align: center;
+    color: darkblue;
+    border: .5em solid black;
+    margin-top: 2em;
+    margin-left: 11em;
+    margin-right: 11em;
+}
+
+section {
+    margin-top: 2em;
+}
+
+h2, h3 {
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline .125em;
+}
+
+
+
+.firstSection {
+
+}
+
+.purpose {
+
+}
+
+.secondSection {
+
+}
+
+.persona {
+
+}
