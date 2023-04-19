@@ -2,17 +2,17 @@ body {
     font-family: sans-serif;
     padding-left: 6em;
     padding-right: 6em;
-    background-color: snow;
+    background-color: rgb(243, 181, 91);
 }
 
 .header {
     text-align: center;
-    color: darkblue;
-    border: .5em solid black;
+    color: deepskyblue;
+    border: .5em solid darkblue;
     margin-top: 2em;
     margin-left: 11em;
     margin-right: 11em;
-    background-color: mediumaquamarine;
+    background-color: white;
 }
 
 section {
@@ -23,7 +23,6 @@ section {
 h2, h3 {
     font-size: x-large;
     text-align: center;
-    text-decoration: underline .125em;
 }
 
 p {
@@ -34,9 +33,9 @@ p {
 
 
 .firstSection {
-    border: .5em solid darkslategray;
-    color: darkslategray;
-    background-color: rosybrown;
+    border: .5em solid darkblue;
+    color: darkblue;
+    background-color: white;
 }
 
 .purpose {
@@ -44,19 +43,18 @@ p {
 }
 
 .image {
-    border: .5em solid steelblue;
+    border: .5em solid white;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 3em;
     height: 15em;
     width: auto;
 }
 
 .secondSection {
-    border: .5em solid midnightblue;
+    border: .5em solid darkblue;
     color: midnightblue;
-    background-color: deepskyblue;
+    background-color: rgb(176, 204, 225);
 }
 
 .persona {
