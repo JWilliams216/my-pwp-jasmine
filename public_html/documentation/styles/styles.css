@@ -1,7 +1,8 @@
 body {
     font-family: sans-serif;
-    padding-left: 3em;
-    padding-right: 3em;
+    padding-left: 6em;
+    padding-right: 6em;
+    background-color: snow;
 }
 
 .header {
@@ -11,10 +12,12 @@ body {
     margin-top: 2em;
     margin-left: 11em;
     margin-right: 11em;
+    background-color: mediumaquamarine;
 }
 
 section {
     margin-top: 2em;
+    padding-bottom: .5em;
 }
 
 h2, h3 {
@@ -23,20 +26,40 @@ h2, h3 {
     text-decoration: underline .125em;
 }
 
+p {
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
 
 
 .firstSection {
-
+    border: .5em solid darkslategray;
+    color: darkslategray;
+    background-color: rosybrown;
 }
 
 .purpose {
 
 }
 
-.secondSection {
+.image {
+    border: .5em solid steelblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    height: 15em;
+    width: auto;
+}
 
+.secondSection {
+    border: .5em solid midnightblue;
+    color: midnightblue;
+    background-color: deepskyblue;
 }
 
 .persona {
+
 
 }
