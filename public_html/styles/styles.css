@@ -61,3 +61,99 @@ p {
 .persona {
     color: midnightblue;
 }
+
+
+
+/*******************************
+*********Milestone-2************
+********************************/
+.contentBody {
+    background-color: white;
+    padding-left: 6em;
+    padding-right: 6em;
+
+}
+.contentH1 {
+    text-align: center;
+    color: deepskyblue;
+    border: .5em solid darkblue;
+    margin-top: 2em;
+    margin-right: 26em;
+    background-color: white;
+    padding:.5em;
+}
+ .contentH {
+    text-align: left;
+     color: midnightblue;
+ }
+
+.contentP {
+    color: darkblue;
+}
+
+.contentStrategy {
+
+
+}
+
+
+
+.navBar {
+    border: .5em solid darkblue;
+    background-color: rgb(175, 210, 240);
+    border-radius: .25em;
+
+}
+
+.introduction {
+    border: .5em solid darkorange;
+    background-color: rgb(255, 184, 63)
+
+
+}
+
+.children {
+    border: .5em solid darkblue;
+    background-color: rgb(175, 210, 240);
+    border-radius: .25em;
+
+}
+
+.household {
+    background-color: rgb(255, 184, 63)
+
+}
+
+.mentalAndLife {
+    border: .5em solid darkblue;
+    background-color: rgb(175, 210, 240);
+    border-radius: .25em;
+
+}
+
+.supportAndCommunity {
+    background-color: rgb(255, 184, 63)
+
+}
+
+.contentFooter {
+    border: .5em solid darkblue;
+    background-color: rgb(175, 210, 240);
+    border-radius: .25em;
+
+}
+
+.design {
+    background-color: rgb(255, 184, 63)
+
+}
+
+
+
+
+
+
+
+
+
+
