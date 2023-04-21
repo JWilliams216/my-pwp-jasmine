@@ -68,7 +68,7 @@ p {
 *********Milestone-2************
 ********************************/
 .contentBody {
-    background-color: white;
+    background-color: rgb(160, 200, 250);
     padding-left: 6em;
     padding-right: 6em;
 
@@ -76,75 +76,97 @@ p {
 .contentH1 {
     text-align: center;
     color: deepskyblue;
-    border: .5em solid darkblue;
+    border: .25em solid darkblue;
     margin-top: 2em;
-    margin-right: 26em;
+    margin-right: 52em;
+    margin-bottom: .5em;
+    margin-left: 1em;
     background-color: white;
-    padding:.5em;
+    padding:.25em;
 }
  .contentH {
     text-align: left;
-     color: midnightblue;
+    color: midnightblue;
+     margin-left: 1em;
  }
 
 .contentP {
     color: darkblue;
 }
 
-.contentStrategy {
 
 
+.contentDescription {
+    border: .275em solid darkorange;
+    background-color: rgb(255, 184, 63);
+    margin-bottom: .25em;
+    border-radius: .25em;
+    color: darkblue;
 }
 
 
-
 .navBar {
-    border: .5em solid darkblue;
+    border: .275em solid darkblue;
     background-color: rgb(175, 210, 240);
     border-radius: .25em;
+    margin-bottom: .25em;
 
 }
 
 .introduction {
-    border: .5em solid darkorange;
-    background-color: rgb(255, 184, 63)
+    border: .275em solid darkorange;
+    background-color: rgb(255, 184, 63);
+    margin-bottom: .25em;
+    border-radius: .25em;
 
 
 }
 
 .children {
-    border: .5em solid darkblue;
+    border: .275em solid darkblue;
     background-color: rgb(175, 210, 240);
     border-radius: .25em;
+    margin-bottom: .25em;
 
 }
 
 .household {
-    background-color: rgb(255, 184, 63)
-
+    border: .275em solid darkorange;
+    background-color: rgb(255, 184, 63);
+    margin-bottom: .25em;
+    border-radius: .25em;
 }
 
 .mentalAndLife {
-    border: .5em solid darkblue;
+    border: .275em solid darkblue;
     background-color: rgb(175, 210, 240);
     border-radius: .25em;
+    margin-bottom: .25em;
+
 
 }
 
 .supportAndCommunity {
-    background-color: rgb(255, 184, 63)
-
-}
-
-.contentFooter {
-    border: .5em solid darkblue;
-    background-color: rgb(175, 210, 240);
+    border: .275em solid darkorange;
+    background-color: rgb(255, 184, 63);
+    margin-bottom: .25em;
     border-radius: .25em;
 
 }
 
+.contentFooter {
+    border: .275em solid darkblue;
+    background-color: rgb(175, 210, 240);
+    border-radius: .25em;
+    margin-bottom: .25em;
+
+}
+
 .design {
-    background-color: rgb(255, 184, 63)
+    border: .275em solid darkorange;
+    background-color: rgb(255, 184, 63);
+    margin-bottom: .25em;
+    border-radius: .25em;
 
 }
 
