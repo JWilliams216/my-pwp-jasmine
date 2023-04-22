@@ -1,3 +1,7 @@
+/**************************
+********Milestone-1********
+ ************************/
+
 body {
     font-family: sans-serif;
     padding-left: 6em;
@@ -105,7 +109,7 @@ p {
 }
 
 
-.navBar {
+.sectionOne {
     border: .275em solid darkblue;
     background-color: rgb(175, 210, 240);
     border-radius: .25em;
@@ -113,54 +117,11 @@ p {
 
 }
 
-.introduction {
+.sectionTwo {
     border: .275em solid darkorange;
     background-color: rgb(255, 184, 63);
     margin-bottom: .25em;
     border-radius: .25em;
-
-
-}
-
-.children {
-    border: .275em solid darkblue;
-    background-color: rgb(175, 210, 240);
-    border-radius: .25em;
-    margin-bottom: .25em;
-
-}
-
-.household {
-    border: .275em solid darkorange;
-    background-color: rgb(255, 184, 63);
-    margin-bottom: .25em;
-    border-radius: .25em;
-}
-
-
-.mentalAndLife {
-    border: .275em solid darkblue;
-    background-color: rgb(175, 210, 240);
-    border-radius: .25em;
-    margin-bottom: .25em;
-
-
-}
-
-.supportAndCommunity {
-    border: .275em solid darkorange;
-    background-color: rgb(255, 184, 63);
-    margin-bottom: .25em;
-    border-radius: .25em;
-
-}
-
-.contentFooter {
-    border: .275em solid darkblue;
-    background-color: rgb(175, 210, 240);
-    border-radius: .25em;
-    margin-bottom: .25em;
-
 }
 
 .design {
