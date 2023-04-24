@@ -136,7 +136,9 @@ p {
 /************************
 ********Wireframes*******
  ************************/
-
+.fullScreenLayout {
+    border: 1em solid white;
+}
 .large1 {
     float: left;
 
@@ -146,6 +148,11 @@ p {
      float: right;
  }
 
+
+
+.mobilLayout {
+    border: 1em solid black;
+}
 
 
 
