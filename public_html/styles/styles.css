@@ -156,6 +156,111 @@ p {
     /*border: 1em solid black;*/
 }
 
+/*************
+****Colors****
+*************/
+.black {
+    background-color: #000000
+}
+
+.blue1 {
+    color: #B0CCE1
+}
+
+.blue2 {
+    background-color: #aed8fb
+    /*background-color: #AFD2F0*/
+}
+
+.orange1 {
+    background-color: #f9c161
+}
+
+.orange2 {
+    background-color: #F3B55B
+}
+
+.orange3 {
+    background-color: #ffb6396e
+}
+.purple1 {
+    background-color: #8b8bf2
+}
+
+.purple2 {
+    background-color: #dabff2
+}
+
+.purple3 {
+    background-color: #fafaff63
+}
+
+.blue200 {
+    background-color: #8DBEFB
+}
+
+.blue300 {
+    background-color: #589EFA
+}
+
+.cyan400 {
+    background-color: #45CFEF
+}
+
+.cyan500 {
+    background-color: #42C3EB
+}
+
+.orange300 {
+    color: #F8A96D
+}
+
+.orange400 {
+    color: #F78D46
+}
+
+.red400 {
+    color: #E85461
+}
+
+.red500 {
+    color: #E12F40
+}
+
+.red600 {
+    color: #AF2534
+}
+/*.green {*/
+/*    border-color: #198754*/
+/*}*/
+
+.green300 {
+    background-color: #61AE8E
+}
+
+.green400 {
+    background-color: #2F946C
+}
+
+.teal400 {
+    background-color: #50dbb0bf
+}
+
+.teal500 {
+    background-color: #3CC28E
+}
+
+.yellow300 {
+    background-color: #FBD569
+}
+.yellow350 {
+    border-color: #FBD569
+}
+
+.yellow400 {
+    background-color: #FAC644
+}
+
 
 
 
