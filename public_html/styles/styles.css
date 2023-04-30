@@ -2,159 +2,159 @@
 ********Milestone-1********
  ************************/
 
-body {
-    font-family: sans-serif;
-    padding-left: 6em;
-    padding-right: 6em;
-    background-color: rgb(243, 181, 91);
-}
+/*body {*/
+/*    font-family: sans-serif;*/
+/*    padding-left: 6em;*/
+/*    padding-right: 6em;*/
+/*    background-color: rgb(243, 181, 91);*/
+/*}*/
 
-.header {
-    text-align: center;
-    color: deepskyblue;
-    border: .5em solid darkblue;
-    margin-top: 2em;
-    margin-left: 11em;
-    margin-right: 11em;
-    background-color: white;
-}
+/*.header {*/
+/*    text-align: center;*/
+/*    color: deepskyblue;*/
+/*    border: .5em solid darkblue;*/
+/*    margin-top: 2em;*/
+/*    margin-left: 11em;*/
+/*    margin-right: 11em;*/
+/*    background-color: white;*/
+/*}*/
 
-section {
-    margin-top: 2em;
-    padding-bottom: .5em;
-}
+/*section {*/
+/*    margin-top: 2em;*/
+/*    padding-bottom: .5em;*/
+/*}*/
 
-h2, h3 {
-    font-size: x-large;
-    text-align: center;
-}
+/*h2, h3 {*/
+/*    font-size: x-large;*/
+/*    text-align: center;*/
+/*}*/
 
-p {
-    margin-left: 3em;
-    margin-right: 3em;
-}
-
-
-
-.firstSection {
-    border: .5em solid darkblue;
-    background-color: white;
-    border-radius: .25em;
-}
-
-.purpose {
-    color: darkblue;
-}
-
-.image {
-    border: .5em solid white;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 15em;
-    width: auto;
-}
-
-.secondSection {
-    border: .5em solid darkblue;
-    background-color: rgb(176, 204, 225);
-    border-radius: .25em;
-
-}
-
-.persona {
-    color: midnightblue;
-}
+/*p {*/
+/*    margin-left: 3em;*/
+/*    margin-right: 3em;*/
+/*}*/
 
 
 
-/*******************************
-*********Milestone-2************
-********************************/
-.contentBody {
-    background-color: rgb(160, 200, 250);
-    padding-left: 6em;
-    padding-right: 6em;
+/*.firstSection {*/
+/*    border: .5em solid darkblue;*/
+/*    background-color: white;*/
+/*    border-radius: .25em;*/
+/*}*/
 
-}
-.contentH1 {
-    text-align: center;
-    color: deepskyblue;
-    border: .25em solid darkblue;
-    margin-top: 2em;
-    margin-right: 52em;
-    margin-bottom: .5em;
-    margin-left: 1em;
-    background-color: white;
-    padding:.25em;
-}
- .contentH {
-    text-align: left;
-    color: midnightblue;
-     margin-left: 1em;
- }
+/*.purpose {*/
+/*    color: darkblue;*/
+/*}*/
 
-.contentP {
-    color: darkblue;
-}
+/*.image {*/
+/*    border: .5em solid white;*/
+/*    display: block;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*    height: 15em;*/
+/*    width: auto;*/
+/*}*/
 
+/*.secondSection {*/
+/*    border: .5em solid darkblue;*/
+/*    background-color: rgb(176, 204, 225);*/
+/*    border-radius: .25em;*/
 
+/*}*/
 
-.contentDescription {
-    border: .275em solid darkorange;
-    background-color: rgb(255, 184, 63);
-    margin-bottom: .25em;
-    border-radius: .25em;
-    color: darkblue;
-}
-
-
-.sectionOne {
-    border: .275em solid darkblue;
-    background-color: rgb(175, 210, 240);
-    border-radius: .25em;
-    margin-bottom: .25em;
-
-}
-
-.sectionTwo {
-    border: .275em solid darkorange;
-    background-color: rgb(255, 184, 63);
-    margin-bottom: .25em;
-    border-radius: .25em;
-}
-
-.design {
-    border: .275em solid darkorange;
-    background-color: rgb(255, 184, 63);
-    margin-bottom: .25em;
-    border-radius: .25em;
-
-}
-
-
-/************************
-********Wireframes*******
- ************************/
-.fullScreenLayout {
-    /*border: 1em solid white;*/
-}
-
-
-.large1 {
-    float: left;
-
-
-}
- .large2 {
-     float: right;
- }
+/*.persona {*/
+/*    color: midnightblue;*/
+/*}*/
 
 
 
-.mobilLayout {
-    /*border: 1em solid black;*/
-}
+/*!********************************/
+/**********Milestone-2*************/
+/*********************************!*/
+/*.contentBody {*/
+/*    background-color: rgb(160, 200, 250);*/
+/*    padding-left: 6em;*/
+/*    padding-right: 6em;*/
+
+/*}*/
+/*.contentH1 {*/
+/*    text-align: center;*/
+/*    color: deepskyblue;*/
+/*    border: .25em solid darkblue;*/
+/*    margin-top: 2em;*/
+/*    margin-right: 52em;*/
+/*    margin-bottom: .5em;*/
+/*    margin-left: 1em;*/
+/*    background-color: white;*/
+/*    padding:.25em;*/
+/*}*/
+/* .contentH {*/
+/*    text-align: left;*/
+/*    color: midnightblue;*/
+/*     margin-left: 1em;*/
+/* }*/
+
+/*.contentP {*/
+/*    color: darkblue;*/
+/*}*/
+
+
+
+/*.contentDescription {*/
+/*    border: .275em solid darkorange;*/
+/*    background-color: rgb(255, 184, 63);*/
+/*    margin-bottom: .25em;*/
+/*    border-radius: .25em;*/
+/*    color: darkblue;*/
+/*}*/
+
+
+/*.sectionOne {*/
+/*    border: .275em solid darkblue;*/
+/*    background-color: rgb(175, 210, 240);*/
+/*    border-radius: .25em;*/
+/*    margin-bottom: .25em;*/
+
+/*}*/
+
+/*.sectionTwo {*/
+/*    border: .275em solid darkorange;*/
+/*    background-color: rgb(255, 184, 63);*/
+/*    margin-bottom: .25em;*/
+/*    border-radius: .25em;*/
+/*}*/
+
+/*.design {*/
+/*    border: .275em solid darkorange;*/
+/*    background-color: rgb(255, 184, 63);*/
+/*    margin-bottom: .25em;*/
+/*    border-radius: .25em;*/
+
+/*}*/
+
+
+/*!*************************/
+/*********Wireframes********/
+/* ************************!*/
+/*.fullScreenLayout {*/
+/*    !*border: 1em solid white;*!*/
+/*}*/
+
+
+/*.large1 {*/
+/*    float: left;*/
+
+
+/*}*/
+/* .large2 {*/
+/*     float: right;*/
+/* }*/
+
+
+
+/*.mobilLayout {*/
+/*    !*border: 1em solid black;*!*/
+/*}*/
 
 /*************
 ****Colors****
