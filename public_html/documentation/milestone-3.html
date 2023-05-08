@@ -10,32 +10,32 @@
 <body class="blue2">
 
 <!--Navigation bar-->
-<nav class="navbar navbar-expand-lg fixed-top bg-light container border rounded border-black pt-lg-2 pb-1">
+<nav id="navbar1" class="navbar navbar-expand-lg fixed-top bg-light container border rounded border-black pt-lg-2 pb-1">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">Help Managing Life & Mental Health</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
+            <ul class="navbar-nav ms-auto nav-pills">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Children</a>
+                    <a class="nav-link" href="#children">Children</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Household</a>
+                    <a class="nav-link" href="#household">Household</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Mental Health & Self-Care</a>
+                    <a class="nav-link" href="#mental">Mental Health & Self-Care</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Support & Community</a>
+                    <a class="nav-link" href="#support">Support & Community</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
 
-
+<div data-bs-spy="scroll" data-bs-target="#navbar1" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true">
 
 <!--Image and text under nav bar-->
 
@@ -55,7 +55,7 @@
 
 
 <!--Children with Books-->
-<section class="blue300">
+<section id="children" class="blue300">
     <div class="container-fluid-lg-12 py-3 px-5 mt-4 pb-5">
         <div class="row">
             <div class="col-lg-12 gx-5 px-5">
@@ -476,7 +476,7 @@
 
 
 <!--Household heading-->
-<section>
+<section id="household">
 <div class="container-fluid gx-5">
     <div class="row mt-4">
         <div class="col">
@@ -556,7 +556,7 @@
 
 
 <!--Mental Health & Self Care-->
-<section>
+<section id="mental">
     <div class="container-fluid mt-5 purple2">
         <div class="row">
             <h5 class="text-center text-light h1 pt-3"> Mental Health & Self-Care</h5>
@@ -612,7 +612,7 @@
 </section>
 
 <!--Support & Community-->
-<section>
+<section id="support">
     <div class="container-fluid  mt-5 orange1 py-3 px-5">
         <h4 class="text-center text-light">Support & Community</h4>
         <div class="row">
@@ -851,7 +851,7 @@
                                 <!--Tiplines and Websites card 1-->
                                 <div class="col-lg-3 blue300 rounded-top">
                                     <div class="card border-primary border border-4" style="width: 100%;">
-                                        <img src="../images/sam.jpg" class="card-img-top rounded-0" alt="sam">
+                                        <img src="../images/scl.jpg" class="card-img-top rounded-0" alt="scl">
                                         <div class="card-body">
                                             <p class="card-text">National Suicide Prevention Lifeline</p>
                                             <p class="card-text">The National Suicide Prevention Lifeline provides free and confidential support 24/7 to individuals who are in crisis or feeling suicidal.</p>
@@ -866,7 +866,7 @@
                                 <!--Tiplines card 3-->
                                 <div class="col-lg-3 blue200 rounded-top">
                                     <div class="card border-primary border border-4" style="width: 100%;">
-                                        <img src="../images/cute.jpg" class="card-img-top rounded-0" alt="cute">
+                                        <img src="../images/sam.jpg" class="card-img-top rounded-0" alt="sam">
                                         <div class="card-body">
                                             <p class="card-text">SAMHSA National Helpline</p>
                                             <p class="card-text">The Substance Abuse and Mental Health Services Administration (SAMHSA) National Helpline provides free and confidential support 24/7 to individuals facing mental health or substance abuse issues</p>
@@ -1161,7 +1161,7 @@
 
 
 
-
+</div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 </body>
 </html>
