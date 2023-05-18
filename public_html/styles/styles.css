@@ -173,6 +173,15 @@
 /*    background-color: rgba(255, 255, 255, 1) !important;*/
 /*}*/
 
+.pink {
+    background-color: pink;
+}
+
+.pink2 {
+    background-color: #ffaebb;
+}
+
+
 .magenta {
     color: #d81980 !important;
 }
